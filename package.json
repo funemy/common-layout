@@ -1,0 +1,11 @@
+{
+    "name": "layout",
+    "version": "0.1.0",
+    "description": "html常见排版",
+    "main": "common-layout",
+    "dependencies": {
+    },
+    "devDependencies": {
+        "gulp-less": "^3.0.5"
+    }
+}
